@@ -35,7 +35,7 @@ This project demonstrates energy conversion principles using a homemade water tu
 
 ---
 
-## ⚙️ Working Principle
+##  Working Principle
 
 - Based on **Bernoulli's Principle** and **fluid dynamics**.
 - Water flow hits the turbine blades, converting kinetic energy to mechanical rotation.
